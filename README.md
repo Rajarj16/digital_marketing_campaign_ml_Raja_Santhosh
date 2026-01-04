@@ -131,11 +131,13 @@ To reproduce the dashboard results:
 ## 🗂️ Repository Structure
 
 ```
-├── digital_marketing_campaign_ml_Raja_Santhosh.ipynb   # ML implementation notebook
+├── digital_marketing_campaign_ml_Raja_Santhosh.ipynb   # Machine learning implementation
+├── social_media_engagement_data_cleaned.csv            # Cleaned dataset used for ML
 ├── ml_predictions_final.csv                            # ML prediction outputs
 ├── v_ml_features_final.csv                             # Feature importance outputs
 ├── Digital_Marketing_Campaign_Analytics.pbix           # Power BI dashboard
 ├── README.md                                           # Project documentation
+                                          # Project documentation
 ```
 
 ---
@@ -223,5 +225,5 @@ To reproduce the dashboard results:
 
 ## 👤 Author
 
-**Raja Santhosh**
+**Raja Ramaraj and Santhosh Selvan**
 Master’s Thesis – Digital Marketing Analytics / Data Analytics
